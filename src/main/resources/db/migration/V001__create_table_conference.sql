@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS Conference (
+  idConference INTEGER DEFAULT 1 NOT NULL,
+  cname VARCHAR(45) NOT NULL,
+  PRIMARY KEY (idConference));

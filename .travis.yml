@@ -1,0 +1,9 @@
+language: java
+sudo: false
+jdk:
+  - oraclejdk8
+
+notifications:
+  email:
+    - vatnic17@student.kristiania.no
+    - gusale17@student.kristiania.no
